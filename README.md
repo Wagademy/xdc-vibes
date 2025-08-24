@@ -1,5 +1,7 @@
 # XDC Vibe Coding Bootcamp
 
+<img width="1200" height="627" alt="(BANNER) XDC Vibe Code - Wide_All" src="https://github.com/user-attachments/assets/fee34665-12ff-488c-9751-2a95f1471da8" />
+
 Welcome to the XDC Vibe Coding Bootcamp! This bootcamp is designed to take you from idea to a deployed dApp on the XDC Network. Over three days, you will learn how to build with AI agents and stablecoin payments.
 
 If you are interested in participating in this bootcamp, please register on the [Luma page](https://lu.ma/xdc-vibes).
@@ -152,7 +154,6 @@ Now you're all set up and ready for the bootcamp!
 ## Instructor
 
 **Matheus Pagani**, CEO of [Venture Miner](https://ventureminer.com), brings over a decade of experience in AI, blockchain, and innovation, with a strong background in guiding thousands of developers through specialized bootcamps.
-
 
 ## Contact
 
