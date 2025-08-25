@@ -98,6 +98,10 @@ If you are interested in participating in this bootcamp, please register on the 
 *   **XDC Chain Docs:** Introduction documentation - [http://docs.xdc.network/xdcchain/](http://docs.xdc.network/xdcchain/)
 *   **Quick Tools Guide:** Tools for starters - [https://xinfin.org/quick-tools-guide](https://xinfin.org/quick-tools-guide)
 *   **Apothem RPC:** Testnet network configuration - [https://docs.xdc.network/xdcchain/developers/apothemrpc/](https://docs.xdc.network/xdcchain/developers/apothemrpc/)
+*   ANKR - XDC RPC Endpoints: https://www.ankr.com/rpc/xdc
+*   Block Explorers: 
+    * Testnet: https://testnet.xdcscan.com/
+    * Mainnet: https://xdcscan.com
 
 ## Environment Setup
 
