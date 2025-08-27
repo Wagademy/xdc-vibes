@@ -59,8 +59,7 @@ If you are interested in participating in this bootcamp, please register on the 
 ### Day 3: Deploy - Building and Launching a dApp
 
 *   **Learning Objectives:**
-    *   Implement payments for the launchpad smart contract.
-    *   Implement a page to buy the token in the launchpad with USDC.e.
+    *   Deploying a dApp to XDC with Scaffold ETH
 *   **Activities:**
     *   Explaining the ERC20 smart contract (30 minutes)
     *   Implementing the “buy tokens” in the landing page (30 minutes)
@@ -152,6 +151,16 @@ Yarn is another package manager that we'll use. Corepack is a tool that comes wi
     ```bash
     corepack enable
     ```
+
+### 6. Install Metamask
+
+You can add [Metamask](https://metamask.io/) to your browser and create a wallet to interact with the XDC network. If you prefer, you can also use other EVM compatible wallets.
+
+> Warning: Do not use wallets with real money on it, even if connected to test netrowks. Always create a new wallet for development.
+
+### 7. Get Testnet Tokens
+
+You can get free test tokens in the [Apothem Faucet](https://apothem.network/#getTestXDC) for using in this bootcamp.
 
 Now you're all set up and ready for the bootcamp!
 
