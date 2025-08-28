@@ -164,6 +164,34 @@ You can get free test tokens in the [Apothem Faucet](https://apothem.network/#ge
 
 Now you're all set up and ready for the bootcamp!
 
+## Getting Started
+
+### Stage 1: Vibe
+
+* Creating a Landing Page for your idea with [v0.app](https://v0.app)
+* Adding a button with a "Placeholder" link
+
+### Stage 2: Craft
+
+* [Scaffold-ETH](https://scaffoldeth.io/) Setup & XDC Integration
+* Using an AI IDE like [Cursor](https://cursor.com) or [Windsurf](https://windsurf.com/) to code for you
+* Using the [LLM Context File](https://docs.scaffoldeth.io/llms-full.txt) for reducing hallucinations
+
+### Stage 3: Deploy
+
+* Finishing the Smart Contract development with AI
+* Configuring the XDC Testnet RPC Endpoint
+* Deploying the Smart Contract and testing the dApp
+* Deploying the dApp to Vercel
+* Instructions for Mainnet deployment
+
+### Stage 4: Pitch
+
+* Final date to submit: **September 1st, 2025 @ 12AM EDT**
+* Submit your project [here](https://forms.gle/gPcamFZP4jQknxRaA)
+* Post your project on X and tag: @xdc_community, @ventureminer, @cracked_labs
+* Grab a slot in the **Pitch Day:** September 04, 2025 @ 6PM EDT: [Apply to Pitch](https://lu.ma/xdc-vibe-pitch)
+
 ## Instructor
 
 **Matheus Pagani**, CEO of [Venture Miner](https://ventureminer.com), brings over a decade of experience in AI, blockchain, and innovation, with a strong background in guiding thousands of developers through specialized bootcamps.
