@@ -156,7 +156,7 @@ Yarn is another package manager that we'll use. Corepack is a tool that comes wi
 
 You can add [Metamask](https://metamask.io/) to your browser and create a wallet to interact with the XDC network. If you prefer, you can also use other EVM compatible wallets.
 
-> Warning: Do not use wallets with real money on it, even if connected to test netrowks. Always create a new wallet for development.
+> Warning: Do not use wallets with real money on it, even if connected to test networks. Always create a new wallet for development.
 
 ### 7. Get Testnet Tokens
 
