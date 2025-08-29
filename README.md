@@ -10,7 +10,7 @@ If you are interested in participating in this bootcamp, please register on the 
 
 *   **Stage 1: Vibe.** (August 27, 2025 @ 6PM EDT): [Register Here](https://lu.ma/xdc-vibe)
 *   **Stage 2: Craft.** (August 28, 2025 @ 6PM EDT): [Register Here](https://lu.ma/xdc-craft)
-*   **Stage 3: Deploy.** (August 29, 2025 @ 6PM EDT): [Register Here](https://lu.ma/xdc-deploy)
+*   **Stage 3: Deploy.** (August 29, 2025 @ 6PM EDT): [Register Here](https://luma.com/xdc-vibe-deploy)
 *   **Project Submission Deadline:** September 01, 2025 @ 12AM EDT: [Submit Here](https://forms.gle/gPcamFZP4jQknxRaA)
 *   **Pitch Day:** September 04, 2025 @ 6PM EDT: [Register Here](https://lu.ma/xdc-vibe-pitch)
 
